@@ -1,3 +1,4 @@
+pipeline
 {
 agent any stages
 {
@@ -30,5 +31,4 @@ echo 'Pipeline failed'
 }
 }
 }
-
 }
